@@ -1,4 +1,4 @@
-# CSS Trafikljuset
+# Trafikljuset
 
 Er uppgift är att återskapa trafikljusen enligt bilderna nedanför. 
 
